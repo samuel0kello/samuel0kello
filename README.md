@@ -2,18 +2,29 @@
 
 ## About
 
-I am currently learning Android development, based in Kenya. My focus is on building native Android applications using Kotlin and understanding modern approaches to app architecture, including modularization. Most of my experience comes from self-driven projects and continuous study, as I work towards building a solid foundation in mobile development.
+My focus is on building native Android applications using Kotlin and understanding modern approaches to app architecture, including modularization. Most of my experience comes from self-driven projects and continuous study, as I work towards building a solid foundation in mobile development.
+
+
+  - 🔭 I’m currently working on Android projects.
+
+  - 🌱 I’m currently learning kotlin serverside and android
+
+  -  👯 I’m looking to collaborate on Android Projects.
+
 
 ## Skills
 
 - Kotlin for Android app development
-- Basic understanding of Python, Java, and Ktor (backend framework)
+- Basic understanding of Ktor (backend framework)
 - Introductory experience with Azure cloud services
 - Version control with Git and GitHub
 
 ## Current Work
 
 - Exploring modularization in Android through a public project [shopspot](https://github.com/samuel0kello/ShopSpot) as part of my learning journey.
+- Exploring kotlin serverside programming using ktor [smartattendnace-api](https://github.com/samuel0kello/smartattendnace-api).
+- 
+
 
 ## Contact
 
