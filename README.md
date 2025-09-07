@@ -1,43 +1,35 @@
 # Samuel Okello
 
 ## About
+I build native Android applications in **Kotlin**, with experience in **Jetpack Compose, API integration, and offline-first features**.  
+Most of my learning has been through **self-driven projects and internships**, where I’ve focused on applying clean architecture and state management to real-world problems.  
 
-My focus is on building native Android applications using Kotlin and understanding modern approaches to app architecture, including modularization. Most of my experience comes from self-driven projects and continuous study, as I work towards building a solid foundation in mobile development.
+- 🔭 Currently working on Android and fullstack projects.  
+- 🌱 Learning Kotlin server-side with **Ktor** and backend deployment on **Azure**.  
+- 👯 Open to collaborating on Android projects that solve real problems.  
 
-
-  - 🔭 I’m currently working on Android projects.
-
-  - 🌱 I’m currently learning kotlin serverside and android
-
-  -  👯 I’m looking to collaborate on Android Projects.
-
+---
 
 ## Skills
+- **Android Development**: Kotlin, Jetpack Compose, Android SDK, Room, Retrofit, Coroutines, MVVM  
+- **Backend**: Ktor, Python basics, RESTful APIs  
+- **Databases**: Firebase, SQLite, PostgreSQL, MySQL  
+- **Tools**: Git, GitHub, Linux, Azure (introductory)  
 
-- Kotlin for Android app development
-- Basic understanding of Ktor (backend framework)
-- Introductory experience with Azure cloud services
-- Version control with Git and GitHub
+---
 
-## Current Work
-
-- Exploring modularization in Android through a public project [shopspot](https://github.com/samuel0kello/ShopSpot) as part of my learning journey.
-- Exploring kotlin serverside programming using ktor [smartattendnace-api](https://github.com/samuel0kello/smartattendnace-api).
-- 
-
+## Projects
+- [**ShopSpot**](https://github.com/samuel0kello/ShopSpot) – E-commerce app built with Kotlin + Jetpack Compose. Uses Retrofit for API data and Coil for image loading.  
+- [**Jirani-Chama**](#) – Financial management MVP for Kenyan savings groups. Focuses on transparent transactions, contributions, and better member management.
+- [**Smart Attendance (Fullstack)**](https://github.com/samuel0kello/smartattendnace-api) – Attendance system with QR codes + geofencing. Backend built with Ktor, currently extending to mobile client.  
+---
 
 ## Contact
+- 📧 [samuelokello929@gmail.com](mailto:samuelokello929@gmail.com)  
+- 🔗 [LinkedIn](https://linkedin.com/in/samuel-okello)  
+- 💻 [GitHub](https://github.com/samuel0kello)  
 
-- Email: [samuelokello929@gmail.com](mailto:samuelokello929@gmail.com)
+---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel0kello&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel0kello&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-  
-
-
-
-
-
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuel0kello&count_private=true&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel0kello&theme=dracula)  
