@@ -1,32 +1,12 @@
-# Samuel Okello
+<div align="center">
 
-## About
+<p align="center"><img align="center" alt="Android" width="25%" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/></p>
+Hi 👋, I'm Samuel Okello<br>
+Crafting mobile experiences, one screen at a time.<br>
 
-I am currently learning Android development, based in Kenya. My focus is on building native Android applications using Kotlin and understanding modern approaches to app architecture, including modularization. Most of my experience comes from self-driven projects and continuous study, as I work towards building a solid foundation in mobile development.
+<a href="https://play.google.com/store/apps/dev?id=8710051118619386906" target="_blank">![Playstore](https://img.shields.io/badge/Playstore-APPs-Green?style=for-the-badge&logo=google-play)</a> <a href="https://twitter.com/0kello_sam" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-DM-blue?style=for-the-badge&logo=twitter)</a> <a href="mailto:samuelokello929@gmail.com" target="_blank">![Mail](https://img.shields.io/badge/GMAIL-INBOX-red?style=for-the-badge&logo=gmail)</a>
+</a>
 
-## Skills
-
-- Kotlin for Android app development
-- Basic understanding of Python, Java, and Ktor (backend framework)
-- Introductory experience with Azure cloud services
-- Version control with Git and GitHub
-
-## Current Work
-
-- Exploring modularization in Android through a public project [shopspot](https://github.com/samuel0kello/ShopSpot) as part of my learning journey.
-
-## Contact
-
-- Email: [samuelokello929@gmail.com](mailto:samuelokello929@gmail.com)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel0kello&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel0kello&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-  
-
-
-
-
-
+</div>
 
 
